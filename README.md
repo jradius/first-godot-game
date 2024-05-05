@@ -1,6 +1,6 @@
 ## First Godot Game
 
-A simple 2D Platformer built using resources provided by Brackeys.
+A simple 2D Platformer built using resources provided by [Brackeys](https://brackeys.com/).
 
 For more information, or to make your own first game using Godot, visit:
 [How to Make a Game - Godot Beginner Tutorial](https://www.youtube.com/watch?v=LOhfqjmasi0)
